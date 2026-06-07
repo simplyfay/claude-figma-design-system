@@ -10,6 +10,10 @@ Extract design tokens from a live webpage, build a structured token system with 
 2. **Structure** — apply token naming conventions and define light/dark modes
 3. **Preview** — render components in the Vite gallery (`/preview`)
 4. **Publish** — push tokens and components to Figma canvas via MCP
+## Figma files
+
+Source (read): https://www.figma.com/design/lveo4BahYddeYgjfnlxZ3X/Linear-Design-System--Community-
+Destination (write): https://www.figma.com/design/gsgS0WXliIwOOEfR3WOSii/Q-%E2%80%94-Priority-Under-Pressure-%C2%B7-Design-System?node-id=0-1&t=kZd7qE9E4kVUIl6n-1
 
 ## Commands
 
